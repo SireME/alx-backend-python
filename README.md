@@ -1,6 +1,6 @@
 # ALX Backend Python Project
 
-Welcome to the ALX School Python Backend project! This repository contains solutions and implementations for various Python tasks related to variable annotations and complex types. The project is structured into different directories, each corresponding to a specific task.
+Welcome ALX Python Backend project! This repository contains solutions and implementations for various Python tasks related to variable annotations and complex types. The project is structured into different directories, each corresponding to a specific task.
 
 ## Project Structure
 
